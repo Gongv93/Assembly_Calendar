@@ -8,6 +8,7 @@
 
 .data
 dtxt db "SunMonTueWedThuFriSat2014Z-Previous X-Next C-Quit"
+scr dw 80*25 dup(?)
 
 ; Length: 48
 jant db "              J  A  N  U  A  R  Y               "
